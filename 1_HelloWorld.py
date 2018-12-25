@@ -1,7 +1,7 @@
-#Program-1 :: Hello_genius 
+#Program-1 :: Hello_World
 
-print("Hello_genius")
+print("Hello_World")
 
-var = "Hello_genius"
+var = "Hello_World"
 print(var)
 
